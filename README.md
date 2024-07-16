@@ -1,1 +1,9 @@
-# mHealthApplications
+# Time Series in mHealth Applications: Task Definition and Data Collection 
+
+Author: Gabriel da Costa Merlin - ICMC/USP
+
+Advisor: Diego Furtado Silva - ICMC/USP
+
+Project financed by Research Support Foundation of the State of São Paulo (FAPESP).
+
+Summary: Monitoring physiological signs, vital signs, and other parameters that can be collected over time from individuals are essential in several tasks in healthcare, such as heart rate estimation and the identification of abnormal heartbeats. However, these time series are obtained by very expensive and usually not portable equipment. On the other hand, with the improvement and miniaturization of sensors capable of transmitting various data types, mobile and wearable devices have increasingly shown themselves as options to support medical decisions. Smartphones and smartwatches have increasingly accurate and diverse sensors, making the World Health Organization consider that mobile health (mHealth) may revolutionize how populations interact with public health systems. However, several scientific and technological challenges need to be overcome for mHealth applications to be viable in practice. Among these challenges are the need for low-cost methods, the heterogeneity and multimodality of the data, and the difficulty in obtaining annotated data. In this scenario, this project proposes investigating the use of Machine Learning for time series in mHealth applications. At the end of this research, we intend to have advanced the state-of-the-art for these applications and still make available the models generated for this, along with all other resources necessary for the advancement of research in the same domain.
