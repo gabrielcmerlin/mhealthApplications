@@ -1,4 +1,4 @@
-# Time Series in mHealth Applications: Task Definition and Data Collection 
+# Time Series in mHealth Applications: Task Definition and Data Collection
 
 ## Introduction
 
