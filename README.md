@@ -12,6 +12,7 @@ Summary: Monitoring physiological signs, vital signs, and other parameters that 
 
 ## Folders
 
+- App: It has the application code used during data collection and its APK files.
 - Scripts: I collect some data and needed to transform it in a single CSV file. In order to not waste a lot of time, scripts were written, some use Selenium to interact with a third party website, others prefer PyDrive to access Google Drive to store its data.
 - Dataset_dealer: As said above, a CSV contains all the data collected. For the purpose of ease its handling, I wrote Reader and Writer codes that facilitate the conversion of a CSV to numpy array (time series) and dataframe (targets). Moreover, there is 'mylib.py', which contains some functions to alterate all the time series in a file.
 - Train: Some extrisic regression models were trained and compared with these codes.
